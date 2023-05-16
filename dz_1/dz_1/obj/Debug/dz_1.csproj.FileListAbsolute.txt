@@ -1,0 +1,8 @@
+C:\Users\Huawei\Desktop\C#\dz1_\dz_1\dz_1\bin\Debug\dz_1.exe.config
+C:\Users\Huawei\Desktop\C#\dz1_\dz_1\dz_1\bin\Debug\dz_1.exe
+C:\Users\Huawei\Desktop\C#\dz1_\dz_1\dz_1\bin\Debug\dz_1.pdb
+C:\Users\Huawei\Desktop\C#\dz1_\dz_1\dz_1\obj\Debug\dz_1.csproj.AssemblyReference.cache
+C:\Users\Huawei\Desktop\C#\dz1_\dz_1\dz_1\obj\Debug\dz_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Huawei\Desktop\C#\dz1_\dz_1\dz_1\obj\Debug\dz_1.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\Desktop\C#\dz1_\dz_1\dz_1\obj\Debug\dz_1.exe
+C:\Users\Huawei\Desktop\C#\dz1_\dz_1\dz_1\obj\Debug\dz_1.pdb
